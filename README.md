@@ -101,4 +101,4 @@ print(f"The correct codeword is : " + " " .join(map(str,add)))
 
 Hence,the Linear Block Code was executed and tesed successfully.
 
-# Hardware experiment output waveform.
+
